@@ -1,0 +1,66 @@
+[
+    {
+      "id": 1,
+      "title": "Vintage Leica M3 Camera",
+      "description": "A classic 35mm film camera from the 1950s, ideal for collectors.",
+      "currentBidPrice": 2850,
+      "timeLeft": "2 Days left",
+      "bidsCount": 12,
+      "image": "/Bid1-min.png"
+    },
+    {
+      "id": 2,
+      "title": "1965 Gibson SG Standard Electric Guitar",
+      "description": "An iconic guitar known for its sharp tone and rock heritage.",
+      "currentBidPrice": 1590,
+      "timeLeft": "3 Days left",
+      "bidsCount": 8,
+      "image": "/Bid2-min.png"
+    },
+    {
+      "id": 3,
+      "title": "Original Apple Macintosh 128K (1984)",
+      "description": "The original Macintosh computer, a rare piece of tech history.",
+      "currentBidPrice": 980,
+      "timeLeft": "18 Hours",
+      "bidsCount": 15,
+      "image": "/Bid3-min.png"
+    },
+    {
+      "id": 4,
+      "title": "Rolex Submariner 16610",
+      "description": "Luxury dive watch, stainless steel with classic design.",
+      "currentBidPrice": 3590,
+      "timeLeft": "7 Days left",
+      "bidsCount": 22,
+      "image": "/Bid4-min.png"
+    },
+    {
+      "id": 5,
+      "title": "First Edition 'The Great Gatsby'",
+      "description": "Rare first edition of F. Scott Fitzgerald’s famous novel.",
+      "currentBidPrice": 850,
+      "timeLeft": "14 Days left",
+      "bidsCount": 9,
+      "image": "/Bid5-min.png"
+    },
+    {
+      "id": 6,
+      "title": "Mid-Century Modern Eames Lounge Chair",
+      "description": "Iconic 1956 design by Charles and Ray Eames, timeless comfort.",
+      "currentBidPrice": 1250,
+      "timeLeft": "30 Days left",
+      "bidsCount": 14,
+      "image": "/Bid6-min.png"
+    },
+    {
+      "id": 7,
+      "title": "Banksy Original Screen Print",
+      "description": "Original Screen Print by Charles and comfort.",
+      "currentBidPrice": 3850,
+      "timeLeft": "1 Days left",
+      "bidsCount": 14,
+      "image": "/Bid7-min.png"
+    }
+  ]
+  
